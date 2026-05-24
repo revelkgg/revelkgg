@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Parth! 👋
 
-<!--
-**revelkgg/revelkgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and tech enthusiast with a passion for community management, server hosting, and mechanical design.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+* 🔭 I’m the Founder of **TeamPhoenix**, overseeing our competitive operations and online presence at `team-phoenix.in`.
+* 💻 I spend time configuring VPS environments to host Discord bots, Minecraft servers, and TeamSpeak servers..
+* 📚 When I'm not configuring servers or designing, I'm busy studying for my exams!
+* ⚡ Fun fact: I play Valorant competitively under the handle **RevelK** (IGL).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Infrastructure & Administration:** VPS Configuration, Domain Management, DNS Setup
+* **Community Tools:** Discord Bot Development, Server Administration
+* **Languages:** Python, Java , Java Script, HTML, React, GSAP.
+### 📊 GitHub Stats
+<!-- You can add dynamic GitHub stats cards here using tools like github-readme-stats -->
+[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=revelkgg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 How to reach me
+* **Website:** [team-phoenix.in](https://team-phoenix.in)
+* **LinkedIn:** [Link to your profile]
+* **Twitter/X:** [@revelkgg]
