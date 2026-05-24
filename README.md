@@ -4,7 +4,7 @@ I'm a student and tech enthusiast with a passion for community management, serve
 
 ### 🚀 About Me
 * 🔭 I’m the Founder of **TeamPhoenix**, overseeing our competitive operations and online presence at `team-phoenix.in`.
-* 💻 I spend time configuring VPS environments to host Discord bots, Minecraft servers, and TeamSpeak servers..
+* 💻 I spend time configuring VPS environments to host Discord bots, Minecraft servers, TeamSpeak servers, Video Editing, and Graphic Designing.
 * 📚 When I'm not configuring servers or designing, I'm busy studying for my exams!
 * ⚡ Fun fact: I play Valorant competitively under the handle **RevelK** (IGL).
 
@@ -14,9 +14,9 @@ I'm a student and tech enthusiast with a passion for community management, serve
 * **Languages:** Python, Java , Java Script, HTML, React, GSAP.
 ### 📊 GitHub Stats
 <!-- You can add dynamic GitHub stats cards here using tools like github-readme-stats -->
-[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=revelkgg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=revelkgg&show_icons=true&theme=radical)](https://github.com/revelkgg)
 
 ### 📫 How to reach me
 * **Website:** [team-phoenix.in](https://team-phoenix.in)
-* **LinkedIn:** [Link to your profile]
+* **LinkedIn:** [[Link](https://www.linkedin.com/in/revelk/)]
 * **Twitter/X:** [@revelkgg]
